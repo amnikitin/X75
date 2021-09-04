@@ -3,7 +3,7 @@ Force Field generator for molecular mechanics
                   Alexei Nikitin
 
 
-Installation
+# Installation
 
 Unpack the archive.
 
@@ -14,7 +14,7 @@ Edit the job_control.txt file to specify a valid path to chargemol\atomic_densit
 
 
 
-Usage
+# Usage
 
 Place the model of the molecule in the model.xyz file in the xyz/xmol format:
 
