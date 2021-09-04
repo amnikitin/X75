@@ -20,10 +20,13 @@ Edit the job_control.txt file to specify a valid path to chargemol\atomic_densit
 
 Place the model of the molecule in the model.xyz file in the xyz/xmol format:
 
-The number of atoms.
-Empty string or comment.
-Element  x y z  charge or comment or nothing.
-...
+ The number of atoms.
+ 
+ Empty string or comment.
+ 
+ Element  x y z  charge or comment or nothing.
+ 
+ ...
 
 In FF.cfg file, specify the dielectric constant of the medium and the total integer charge of the model.
 You should not remove lines or insert new ones.
