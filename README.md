@@ -28,6 +28,7 @@ Place the model of the molecule in the model.xyz file in the xyz/xmol format:
  
  ...
 
+
 In FF.cfg file, specify the dielectric constant of the medium and the total integer charge of the model.
 You should not remove lines or insert new ones.
 It is not recommended to edit the "System:" section. 
