@@ -35,7 +35,7 @@ It is not recommended to edit the "System:" section.
 
 If the total charge is zero, run the 0.run.bat.
 
-If not, then run the -1.bat
+If not, then run the -1.bat.
 After completing its work, change zero to the correct charge in the MyMol.wfx file
 
 <Net Charge> 
