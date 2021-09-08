@@ -3,7 +3,7 @@
 
                   Alexei Nikitin
 
-
+<i>For Windows</i>
 
 ### Installation
 
